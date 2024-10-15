@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+My first project following a course on [boot.dev](https://www.boot.dev/courses/build-bookbot)
